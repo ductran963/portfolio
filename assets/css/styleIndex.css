@@ -1,0 +1,210 @@
+.name h1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 25px;
+}
+.name{
+    margin-left: 256px;
+    margin-top: -8px;
+    float: left;
+}
+.side-nav{
+    justify-self: flex-end;
+    align-self: flex-end;
+    float: right;
+    margin-top: 10px;
+    margin-right: 322px;
+    margin-top: 60px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: url("../images/dot-grid.png");
+    -
+    size: px;
+    background-size: 100px 0px 100px 0px;
+    background: white;
+}
+header{
+    background-color: #ffffff;
+    width: 100%;
+}
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    color: #4aaaa5;
+    padding: 25;
+}
+a, p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+.image{
+    width: -207px;
+    margin: 9px 455px 22px 25px;
+}
+.body{
+    padding: 0px;
+    margin-top: 32px;
+    margin-bottom: -17px;
+    width: 941px;
+    background-color: #ffffff;
+    top: 8px;
+    margin-left: 256px;
+}
+.content{
+    border-top: 1px #cccccc solid;
+    
+    background-image: url(../images/dot-grid.png);
+    border-left: -27px;
+}
+
+.title{
+    padding: 22px 28px;
+    border-bottom: #CCCCD0 2px solid;
+    padding-bottom: -11px;
+}
+.description{
+    padding-top: -48px;
+}
+
+.footer{
+    width: 101%;
+    background-color: #777777;
+    height: 52px;
+    display: flex;
+    border-top: 8px #4aaaa5 solid;
+    margin-left: -8px;
+    margin-right: 81px;
+    margin-top: 28px;
+}
+.footer p{
+    color: white;
+    font-size: 8px;
+    margin: 0;
+    align-self: flex-end;
+    padding: 20px;
+    /* text-align: center; */
+    padding-left: 767px;
+}
+.imageSize {
+    width: 235px;
+    height: 223px;
+    margin-top: 20px;
+    margin-left: -6px;
+}
+
+.hangman{
+    width: 28%;
+    height: 150px;
+    margin: 34px 0px 0px 22px;
+}
+
+.pImage h3{
+    position: absolute;
+    z-index: 2;
+    top: 318px;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 10px 3px 6px 25px;
+    text-align: center;
+    left: 286px;
+}
+.rpg{
+    width: 28%;
+    height: 150px;
+    margin: 34px 0px 0px 22px; 
+}
+.trivia{
+    width: 28%;
+    height: 150px;
+    margin: 34px 0px 0px 22px;
+}
+.widget{
+    width: 28%;
+    height: 150px;
+    margin: 34px 0px 0px 22px;
+}
+.rock{
+    width: 28%;
+    height: 150px;
+    margin: 34px 0px 0px 22px;
+}
+.pImage2 h3{
+    position: absolute;
+    z-index: 2;
+    top: 504px;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 10px 3px 6px 25px;
+    text-align: center;
+    left: 286px;
+}
+.pImage3 h3{
+    position: absolute;
+    z-index: 2;
+    top: 690px;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 10px 3px 6px 25px;
+    text-align: center;
+    left: 286px;
+}
+.pImage4 h3{
+    position: absolute;
+    z-index: 2;
+    top: 876px;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 10px 3px 6px 25px;
+    text-align: center;
+    left: 286px;
+}
+.pImage5 h3{
+    position: absolute;
+    z-index: 2;
+    top: 1062px;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 10px 3px 6px 25px;
+    text-align: center;
+    left: 286px;
+}
+.contactPage{
+    margin-top: 20px;
+    width: 100%;
+}
+.contactPage p{
+    margin-left: 32px;
+    margin-bottom: 7px;
+}
+.formInput1{
+    padding-bottom: 17px;
+    width: 96.5%;
+    margin-left: 30px;
+    margin-bottom: 13px;
+}
+.formInput2{
+    width: 96.5%;
+    margin-left: 30px;
+    
+    margin-bottom: 13px;
+    padding-bottom: 17px;
+}
+.formInput3{
+    width: 96.5%;
+    margin-left: 30px;
+    margin-bottom: 13px;
+}
+.submitControl{
+    padding: 9px 20px;
+    color: white;
+    background-color: #4aaaa5;
+    border: none;
+    margin-left: 30px;
+}
